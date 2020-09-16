@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L9Mkr6EWAqC2WIy8I4wM9PgNctP/Tyn/OtvODiRXxFpyW+T1ID/qtIMukeezLd6jzPzbjrEGhizU3PuAeeBu5A==",
+  "dgSpecHash": "dlSSi+MZjd2+HURAltCF2yAXyWzQRw4irnPOdLcEGIRahEltR31iHSE2eRn6AW6krac0oK5NJIDkg6eLEdVZEg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kevin Lozano\\Desktop\\ProyectoFinal\\BackProyecto\\BackProyecto\\BackProyecto.csproj",
+  "projectFilePath": "C:\\Users\\Kevin Lozano\\Documents\\2020-1\\Programación en la Web\\Taller9\\BackProyecto\\BackProyecto\\BackProyecto.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kevin Lozano\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Kevin Lozano\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

@@ -944,11 +944,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kevin Lozano\\Desktop\\ProyectoFinal\\BackProyecto\\BackProyecto\\BackProyecto.csproj",
+      "projectUniqueName": "C:\\Users\\Kevin Lozano\\Documents\\2020-1\\Programación en la Web\\Taller9\\BackProyecto\\BackProyecto\\BackProyecto.csproj",
       "projectName": "BackProyecto",
-      "projectPath": "C:\\Users\\Kevin Lozano\\Desktop\\ProyectoFinal\\BackProyecto\\BackProyecto\\BackProyecto.csproj",
+      "projectPath": "C:\\Users\\Kevin Lozano\\Documents\\2020-1\\Programación en la Web\\Taller9\\BackProyecto\\BackProyecto\\BackProyecto.csproj",
       "packagesPath": "C:\\Users\\Kevin Lozano\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kevin Lozano\\Desktop\\ProyectoFinal\\BackProyecto\\BackProyecto\\obj\\",
+      "outputPath": "C:\\Users\\Kevin Lozano\\Documents\\2020-1\\Programación en la Web\\Taller9\\BackProyecto\\BackProyecto\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
